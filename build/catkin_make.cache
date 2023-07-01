@@ -1,0 +1,2 @@
+LeGO-LOAM/LeGO-LOAM:LeGO-LOAM/cloud_msgs
+-DCATKIN_DEVEL_PREFIX=/home/phuong/lego_loam/devel -DCMAKE_INSTALL_PREFIX=/home/phuong/lego_loam/install -G Unix Makefiles
